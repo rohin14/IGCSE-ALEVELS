@@ -1,0 +1,7 @@
+pandas
+requests
+reportlab
+matplotlib
+numpy
+pillow
+python-dotenv
